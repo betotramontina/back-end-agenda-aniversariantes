@@ -17,4 +17,5 @@
 ##### Ativar ambiente virtual: source venv_api/bin/activate
 ##### Instalar os requisitos: pip install -r requirements.txt
 ##### Executar a API: flask run --host 0.0.0.0 --port 5000
-#### Interagir com as rotas da API via Swagger
+##### Acessar API por meio do endereço http://172.20.51.164:5000/ 
+##### Interagir com as rotas da API via Swagger
